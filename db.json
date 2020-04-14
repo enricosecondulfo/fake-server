@@ -1,0 +1,21 @@
+{
+  "azienda": [
+    {
+      id: '1',
+      cuaa: 'SCNNRC85T14G813I',
+      tipoSoggetto: 'PF',
+      cognome: 'Secondulfo',
+      nome: 'Enrico',
+      denominazioneAzienda: 'test',
+      sesso: 'M',
+      dataNascita: '14/12/1985',
+      comuneNasc: { id: '04', desc: 'Terni' },  
+      codIscrizioneRea: 'test',
+      codIscrizioneRegistro: 'test',
+      matricolaInps: 'test',
+      dataInizioVali: '31/03/2020',
+      dataFineVali: '31/12/9999'
+    }
+  ]
+
+}
